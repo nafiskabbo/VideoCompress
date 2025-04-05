@@ -86,7 +86,7 @@ MediaInfo mediaInfo = await VideoCompress.compressVideo(
 
 ## Check compress state
 ```dart
-VideoQuality.isCompressing
+VideoCompress.isCompressing
 ```
 <!-- ## Cancel compression
 ```dart
